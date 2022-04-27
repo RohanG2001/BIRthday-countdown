@@ -1,1 +1,1 @@
-# BIRthday-countdown
+# Countdown
